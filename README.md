@@ -4,7 +4,7 @@
 React-based OnlineShop application deployed using Docker and Jenkins CI/CD pipeline.
 
 ## Repository
-Source: https://github.com/sriram-R-krishnan/devops-build
+Source: https://github.com/Rajkumar-dev005/devops-project-3
 
 ## Infrastructure
 - AWS EC2 t2.micro (Amazon Linux 2023)
